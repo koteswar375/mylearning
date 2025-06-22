@@ -1,1 +1,6 @@
-### Types
+# Types
+
+* int
+* float
+* char
+* double
