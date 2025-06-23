@@ -27,3 +27,9 @@ codeblock
 ## Heading 2
 ### Heading 3
 #### Heading 4
+
+> This line is for demonstrating search and embedding search query.
+
+```query
+search query tag:#shortcuts  
+```
