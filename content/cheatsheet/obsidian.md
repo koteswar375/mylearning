@@ -3,12 +3,17 @@ tags:
   - shortcuts/obsidian
 ---
 **Bold**   `**Bold**`
+
 *Italic* `*Italic*`
+
 ~~Strikethrough~~ `~~strikethrough~~`
+
 ==Highlight==  `\==Highlight==`
 
 - Bullet `-Bullet`
+
 [[Backlink]] `[[Backlink]]`
+
 [[Backlin|alias]] `[[Backlinl|alias]]`
 
 >callout `>callout`
